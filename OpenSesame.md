@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on my life
+I'm currently working on my life
 
 
 ## 🌐 Socials:
