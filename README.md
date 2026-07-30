@@ -1,17 +1,12 @@
-<!-- BANNER -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=600&height=20&lines=%E2%9A%97+KINGDOM+OF+SCIENCE+%E2%9A%97" alt="Kingdom of Science"/>
-</div>
-
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:1a1a0e,100:080808&height=180&section=header&text=ARDRA%20SANJIV%20KUMAR&fontSize=36&fontColor=e8dfc0&fontAlignY=45&desc=ARCHITECT%20OF%20CIVILIZATION&descAlignY=68&descColor=39ff14&descSize=14&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:1a1a0e,100:080808&height=200&section=header&text=ARDRA%20SANJIV%20KUMAR&fontSize=36&fontColor=e8dfc0&fontAlignY=45&desc=ARCHITECT%20OF%20CIVILIZATION&descAlignY=68&descColor=39ff14&descSize=14&animation=fadeIn&fontFamily=Oxanium)
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=3%2C700+years+in+stone.;But+the+science+never+stopped.;Digital+Operations+%26+Full-Stack+Dev;Kingdom+of+Science%3A+ACTIVE+%E2%9A%97%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=600&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=3%2C700+years+in+stone.;But+the+science+never+stopped.;Digital+Operations+%26+Full-Stack+Development;Kingdom+of+Science+%E2%80%94+ACTIVE)
 
 </div>
 
@@ -20,20 +15,20 @@
 <div align="center">
 
 ```
-⚗️  KINGDOM OF SCIENCE — FIELD REPORT  ⚗️
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Subject    :  Ardra Sanjiv Kumar
-Designation:  Architect of Civilization
-Status     :  ACTIVE — Civilization rebuild in progress
-Location   :  Windsor, ON 🍁  ↔  Kerala, IN 🌴
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  KINGDOM OF SCIENCE — FIELD REPORT
+  ────────────────────────────────────────
+  Subject     :  Ardra Sanjiv Kumar
+  Designation :  Architect of Civilization
+  Status      :  ACTIVE — Civilization rebuild in progress
+  Location    :  Windsor, ON
+  ────────────────────────────────────────
 ```
 
 </div>
 
 ---
 
-### 📓 LAB NOTEBOOK — DAY 1 OF REVIVAL
+### LAB NOTEBOOK — DAY 1 OF REVIVAL
 
 > *A builder who arrives at problems others have left unsolved —*
 > *broken workflows, missing systems, digital infrastructure held*
@@ -46,7 +41,7 @@ Location   :  Windsor, ON 🍁  ↔  Kerala, IN 🌴
 
 ---
 
-### ⚗️ ARSENAL OF SCIENCE
+### ARSENAL OF SCIENCE
 
 <div align="center">
 
@@ -76,43 +71,43 @@ Location   :  Windsor, ON 🍁  ↔  Kerala, IN 🌴
 
 ---
 
-### 🪨 INVENTION LOG — RECOVERED ARTIFACTS
+### INVENTION LOG — RECOVERED ARTIFACTS
 
 ```
-ARTIFACT #001 — Sterling Fuels Website
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Mission  : Restored the digital presence of a regional fuel distributor
-Stack    : React · Vite · Tailwind · Azure · SharePoint
-Status   : ✅ DEPLOYED
-```
-
-```
-ARTIFACT #002 — Cleaner Home Solutions
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Mission  : Gave a cleaning business its first professional web identity
-Stack    : React · Vite · Tailwind · EmailJS · Vercel
-Status   : ✅ DEPLOYED
+  ARTIFACT #001 — Sterling Fuels Website
+  ──────────────────────────────────────────────────────
+  Mission  : Restored the digital presence of a regional fuel distributor
+  Stack    : React · Vite · Tailwind · Azure · SharePoint
+  Status   : DEPLOYED
 ```
 
 ```
-ARTIFACT #003 — Realtor Follow-Up App
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Mission  : Rebuilt a realtor's entire client tracking workflow into mobile
-Stack    : Flutter · Firebase · Firestore · Provider
-Status   : ✅ DEPLOYED
+  ARTIFACT #002 — Cleaner Home Solutions
+  ──────────────────────────────────────────────────────
+  Mission  : Gave a cleaning business its first professional web identity
+  Stack    : React · Vite · Tailwind · EmailJS · Vercel
+  Status   : DEPLOYED
 ```
 
 ```
-ARTIFACT #004 — Insurance Quote App
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Mission  : Simulated a real-world insurance quoting engine
-Stack    : Flutter · Mock API Integration
-Status   : ✅ DEPLOYED
+  ARTIFACT #003 — Realtor Follow-Up App
+  ──────────────────────────────────────────────────────
+  Mission  : Rebuilt a realtor's entire client tracking workflow into mobile
+  Stack    : Flutter · Firebase · Firestore · Provider
+  Status   : DEPLOYED
+```
+
+```
+  ARTIFACT #004 — Insurance Quote App
+  ──────────────────────────────────────────────────────
+  Mission  : Simulated a real-world insurance quoting engine
+  Stack    : Flutter · Mock API Integration
+  Status   : DEPLOYED
 ```
 
 ---
 
-### 📊 SCIENCE STATS
+### SCIENCE STATS
 
 <div align="center">
 
@@ -130,7 +125,7 @@ Status   : ✅ DEPLOYED
 
 ---
 
-### 🏆 CIVILIZATION TROPHIES
+### CIVILIZATION TROPHIES
 
 <div align="center">
 
@@ -140,27 +135,27 @@ Status   : ✅ DEPLOYED
 
 ---
 
-### 🐍 CONTRIBUTION TRAIL
+### CONTRIBUTION TRAIL
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardrask/ardrask/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardrask/ardrask/output/github-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ardrask/ardrask/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ardrask/ardrask/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-### 🌐 SIGNAL CHANNELS
+### SIGNAL CHANNELS
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/CH--01%20EMAIL-ardra.sanjiv%40gmail.com-39ff14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808)](mailto:ardra.sanjiv@gmail.com)
-[![GitHub](https://img.shields.io/badge/CH--02%20GITHUB-ardrask-00e5cc?style=for-the-badge&logo=github&logoColor=white&labelColor=080808)](https://github.com/ardrask)
-[![LinkedIn](https://img.shields.io/badge/CH--03%20LINKEDIN-connect-ffb300?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/CH--01%20%20EMAIL-ardra.sanjiv%40gmail.com-39ff14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:ardra.sanjiv@gmail.com)
+[![GitHub](https://img.shields.io/badge/CH--02%20%20GITHUB-ardrask-00e5cc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/ardrask)
+[![LinkedIn](https://img.shields.io/badge/CH--03%20%20LINKEDIN-connect-ffb300?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com)
 
 </div>
 
@@ -169,12 +164,12 @@ Status   : ✅ DEPLOYED
 <div align="center">
 
 ```
-[ CIVILIZATION REBUILD: IN PROGRESS ]
-[ SCIENCE POINTS: ACCUMULATING      ]
-[ STATUS: EXACTLY 10 BILLION % IN   ]
+  [ CIVILIZATION REBUILD : IN PROGRESS    ]
+  [ SCIENCE POINTS       : ACCUMULATING   ]
+  [ STATUS               : 10 BILLION %   ]
 ```
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ardrask.ardrask&left_color=080808&right_color=39ff14&left_text=SOULS%20REVIVED)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ardrask.ardrask&left_color=0d0d0d&right_color=39ff14&left_text=SOULS+REVIVED)
 
 </div>
 
